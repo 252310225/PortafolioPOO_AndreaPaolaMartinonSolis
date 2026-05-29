@@ -9,10 +9,19 @@ El proyecto permite organizar información de paquetes y sensores mediante clase
 
 + Logística: registrar datos de paquetes como código, peso y fragilidad.
 + Monitoreo: guardar información de sensores y su última lectura.
-Tecnologías utilizadas
-Conceptos aplicados (según temario)
-Capturas de pantalla (incluir formularios de entrada, ejecución y resultados)
-Instrucciones de ejecución
+
+**Tecnologías utilizadas**
++ PHP
++ Apache / XAMPP
++ Visual Studio Code
+
+**Conceptos aplicados**
++ Clases y objetos
++ Encapsulamiento (public y private)
++ Tipado estricto
++ Uso de require_once
+
+**Instrucciones de ejecución**
  Ejemplo:
 1. Copiar carpeta en htdocs
 2. Iniciar Apache en XAMPP
