@@ -22,12 +22,12 @@ El proyecto permite organizar información de paquetes y sensores mediante clase
 + Uso de require_once
 
 **Instrucciones de ejecución**
- Ejemplo:
-1. Copiar carpeta en htdocs
-2. Iniciar Apache en XAMPP
-3. Abrir localhost/proyecto
-4. Etc.
-8. Reflexión personal
-• ¿Qué aprendí?
-• ¿Qué fue difícil?
-• ¿Qué mejoraría?
+1. Colocar la carpeta en htdocs.
+2. Iniciar Apache en XAMPP.
+3. Abrir el proyecto desde localhost.
+4. Ejecutar index.php.
+
+**Reflexión personal**
++ ¿Qué aprendí? Aprendí a estructurar clases en PHP aplicando tipado estricto directamente a las propiedades y a comprender de manera práctica cómo el modificador private bloquea el acceso a un atributo desde fuera de la clase.
++ ¿Qué fue difícil? Lo más difícil fue controlar los nervios por tener el reloj encima. El examen era de solo 30 minutos, y entre la prisa y la presión me bloqueé y no alcancé a terminar todos los ejercicios. Me costó trabajo recordar rápido cómo se escribían algunas cosas y organizar las carpetas a las carreras.
++ ¿Qué mejoraría?Necesito practicar más en casa haciendo ejercicios con tiempo para no ponerme tan nerviosa en los exámenes. También me falta repasar más la forma en que se escribe el código en PHP para hacerlo automático y no perder minutos pensando cómo iba cada línea.
