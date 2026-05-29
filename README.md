@@ -6,6 +6,7 @@
 + 2do. Semestre - Ingeniería Informática
 
 **Descripción general**
+
 Este portafolio contiene las actividades y proyectos realizados durante la materia de Programación orientada a objetos del segundo semestre de ingeniería informática. En él se muestran las actividades de evaluación que se desarrollaron cada final de parcial para aplicar conocimientos de programación y manejo de datos.
 
 Para la elaboración de los proyectos se utilizaron distintas tecnologías y herramientas. Entre las principales tecnologías utilizadas se encuentran PHP y Python como lenguajes de programación, HTML y CSS para la creación de interfaces web, XAMPP como entorno de desarrollo local y GitHub para el almacenamiento y control de versiones de los proyectos.
