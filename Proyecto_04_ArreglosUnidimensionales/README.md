@@ -10,7 +10,7 @@ Permite organizar productos y realizar cálculos automáticos como suma, promedi
 
 **Tecnologías utilizadas**
 - PHP
-- HTML5
+- HTML
 - XAMPP
 - Visual Studio Code
 
@@ -28,5 +28,7 @@ Permite organizar productos y realizar cálculos automáticos como suma, promedi
 
 **Reflexión personal**
 - ¿Qué aprendí? Aprendí que los arreglos unidimensionales son súper útiles porque te dejan guardar listas completas de cosas similares bajo un solo nombre. También aprendí que usar funciones que ya vienen en PHP (como array_sum(), max() y min()) te ahorra mucho tiempo y líneas de código porque hacen el trabajo pesado de inmediato.
+
 - ¿Qué fue difícil? Al principio me costó un poco de trabajo entender cómo conectar los dos arreglos paralelos para que al buscar el precio más caro con max(), el programa supiera exactamente a qué nombre de producto le pertenecía ese costo. También requirió atención validar bien que el usuario no dejara campos vacíos en el formulario
+
 - ¿Qué mejoraría? En lugar de usar arreglos paralelos sueltos, me gustaría mejorar el programa usando arreglos asociativos o colecciones de objetos para que cada producto y su precio estén amarrados en una sola variable. También cambiaría el código para poder agregar o quitar filas de productos de forma dinámica con un botón, sin estar limitado a capturar solo 5 a la fuerza.
