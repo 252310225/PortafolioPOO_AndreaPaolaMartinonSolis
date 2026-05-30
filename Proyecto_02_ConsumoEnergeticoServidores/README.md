@@ -10,8 +10,8 @@ Permite calcular de forma automática la energía consumida por un servidor, fac
 
 **Tecnologías utilizadas**
 - PHP
-- HTML5
-- CSS3
+- HTML
+- CSS
 - Apache / XAMPP
 - Visual Studio Code
 
